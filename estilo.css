@@ -1,0 +1,35 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: hsl(160, 74%, 54%);
+    font: normal 20pt Arial;
+}
+h1{
+    padding: 25px;
+    border-radius: 20px;
+    background-color: #fff;
+    border:black 2px solid;
+
+}
+header{
+    color: rgb(8, 8, 8);
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    border: black 2px solid;
+    padding: 15px;
+    width: 500;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(34, 33, 33, 0.747);
+}
+footer{
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-style: italic;
+
+}
